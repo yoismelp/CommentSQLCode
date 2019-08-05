@@ -1,0 +1,7 @@
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\bin\Debug\CommentSelects.exe.config
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\bin\Debug\CommentSelects.exe
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\bin\Debug\CommentSelects.pdb
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\obj\Debug\CommentSelects.csprojAssemblyReference.cache
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\obj\Debug\CommentSelects.csproj.CoreCompileInputs.cache
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\obj\Debug\CommentSelects.exe
+C:\Users\yperez\source\repos\CommentSelects\CommentSelects\obj\Debug\CommentSelects.pdb
